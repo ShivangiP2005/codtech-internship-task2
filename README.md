@@ -83,10 +83,10 @@ The application runs on **[http://localhost:3000](http://localhost:3000)**
 ## 📸 Screenshots
 
 ### Chat Interface
-![Chat UI](screenshots/SS1.png)
+![Chat UI](Screenshots/SS1.png)
 
 ### Live Messaging
-![Live Chat](screenshots/SS2.png)
+![Live Chat](Screenshots/SS2.png)
 
 ---
 
