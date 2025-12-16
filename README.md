@@ -3,9 +3,13 @@
 ## Real-Time Chat Application
 
 **Name:** Shivangi Girjesh Pandey
+
 **Company:** CODTECH IT SOLUTIONS PVT. LTD
+
 **ID:** CT04DR2703
+
 **Domain:** Frontend Web Development
+
 **Duration:** Dec 04th 2025 to Jan 04th 2026
 
 ---
